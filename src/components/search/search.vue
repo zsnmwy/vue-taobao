@@ -72,6 +72,7 @@
 </template>
 
 <script>
+import { searchFooterList } from "../../mockData";
 export default {
   data() {
     return {
@@ -84,63 +85,7 @@ export default {
         isTure: 0,
         lists: ["宝贝", "天猫", "店铺"]
       },
-      searchFooterList: [
-        {
-          name: "新款男鞋",
-          color: "#ff5000"
-        },
-
-        {
-          name: "夹克外套",
-          color: ""
-        },
-
-        {
-          name: "衬衫",
-          color: "#ff5000"
-        },
-
-        {
-          name: "沙发",
-          color: ""
-        },
-        {
-          name: "夹克",
-          color: ""
-        },
-        {
-          name: "蓝牙耳机",
-          color: ""
-        },
-        {
-          name: "男士内裤",
-          color: "#ff5000"
-        },
-        {
-          name: "定制窗帘",
-          color: "#ff5000"
-        },
-        {
-          name: "男皮鞋",
-          color: ""
-        },
-        {
-          name: "电脑椅",
-          color: ""
-        },
-        {
-          name: "餐桌",
-          color: "#ff5000"
-        },
-        {
-          name: "电视柜",
-          color: "#ff5000"
-        },
-        {
-          name: "吸顶灯",
-          color: "#ff5000"
-        }
-      ]
+      searchFooterList
     };
   },
   methods: {

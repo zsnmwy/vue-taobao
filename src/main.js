@@ -1,8 +1,10 @@
 import Vue from "vue";
 import App from "./App.vue";
 import "./common/stylus/reset.styl";
-import "./common/icon/search-icon/iconfont.css";
+import "./common/icon/font-icon/iconfont.css";
+import countdown from "kenyang-countdown-vue";
 
+Vue.use(countdown);
 Vue.config.productionTip = false;
 
 new Vue({

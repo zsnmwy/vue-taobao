@@ -1,0 +1,114 @@
+{
+  "id": "1469726",
+  "name": "淘宝",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7332",
+      "name": "淘宝",
+      "font_class": "taobao1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "145196",
+      "name": "star",
+      "font_class": "star",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "436376",
+      "name": "放大镜",
+      "font_class": "49",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "602165",
+      "name": "arrow down",
+      "font_class": "arrowdown-copy",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "630128",
+      "name": "照相机",
+      "font_class": "zhaoxiangji",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "792253",
+      "name": "shopping cart-购物车",
+      "font_class": "shoppingcartgouwuche",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "949538",
+      "name": "aui-icon-close",
+      "font_class": "aui-icon-close",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1025167",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1183137",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "3481314",
+      "name": "盾",
+      "font_class": "shield",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "3695471",
+      "name": "arrow_down",
+      "font_class": "arrow-up",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "5884890",
+      "name": "笑",
+      "font_class": "xiao",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "5923059",
+      "name": "淘宝",
+      "font_class": "taobao",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "6076435",
+      "name": "钱包",
+      "font_class": "qianbao",
+      "unicode": "e822",
+      "unicode_decimal": 59426
+    },
+    {
+      "icon_id": "8943095",
+      "name": "逗号",
+      "font_class": "douhao",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    }
+  ]
+}
